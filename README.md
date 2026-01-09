@@ -22,7 +22,7 @@
 </div>
 <br>
 
-<img src="[[./images/logo.png](https://ibb.co/5gRWd34f)](https://i.ibb.co/gLRMG89B/Screenshot-2026-01-09-200127.png)" alt="Logo" width="200" height="100" align="center">
+<img src="https://i.ibb.co/gLRMG89B/Screenshot-2026-01-09-200127.png" alt="Logo" width="200" height="100" align="center">
 
 ---
 
