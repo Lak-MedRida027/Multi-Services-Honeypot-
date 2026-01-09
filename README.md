@@ -21,9 +21,9 @@
 
 </div>
 <br>
-
-<img src="https://i.ibb.co/gLRMG89B/Screenshot-2026-01-09-200127.png" alt="Logo" width="200" height="100" align="center">
-
+<p align="center">
+	<img src="https://i.ibb.co/gLRMG89B/Screenshot-2026-01-09-200127.png" alt="Logo" width="600">
+</p>
 ---
 
 ## Table of Contents
